@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Activity Main  -->
+    <string name="app_name">AndroidAssignments</string>
+    <string name="hello_message">Kamusta Mundo!</string>
+    <string name="ButtonText">Button Ako</string>
+    <!-- Activity Login -->
+    <string name="loginText">Login</string>
+    <string name="passwordText">Password</string>
+    <string name="loginEdit">Login name</string>
+    <string name="passwordEdit">Password</string>
+    <!--  Activity List Items  -->
+    <string name="radioText">RadioButton</string>
+    <string name="checkboxText">CheckBox</string>
+    <string name="switchText">Ano ang ginagawa nito?</string>
+    <string name="dialog_message">Tapos Na?</string>
+    <string name="dialog_title">Lumabas</string>
+    <string name="dialog_ok">Ok lang</string>
+    <string name="dialog_cancel">Kanselahin</string>
+    <string name="switchOn">Lumipat na</string>
+    <string name="switchOFF">Lumipat kung naka-off</string>
+    <string name="response">ListItemsActivity lumipas: Ang aking impormasyon upang ibahagi</string>
+</resources>
